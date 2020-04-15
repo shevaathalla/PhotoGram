@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home_btn"
+        android:icon="@mipmap/home"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottom_notification_btn"
+        android:icon="@mipmap/notification"
+        android:title="Notifications" />
+    <item
+        android:id="@+id/bottom_account_btn"
+        android:icon="@mipmap/account"
+        android:title="Account" />
+</menu>
